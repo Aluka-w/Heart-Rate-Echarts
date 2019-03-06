@@ -1,11 +1,12 @@
 {
   "name": "yoyo",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "echarts": "^4.2.0-rc.2",
+    "echarts-for-react": "^2.0.15-beta.0"
   },
   "scripts": {
     "start": "react-scripts start",
